@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![nauta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nautaa)](https://github.com/anuraghazra/github-readme-stats)
+[![nauta's GitHub stats](https://github-readme-stats.vercel.app/api?username=nautaa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nautaa/nautaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
