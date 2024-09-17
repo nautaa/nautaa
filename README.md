@@ -1,6 +1,13 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nautaa&count_private=true&show_icons=true&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<!-- Copy-paste in your Readme.md file -->
 
-- I’m currently learning database.
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=25190284" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=25190284&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nautaa" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=25190284&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <!--
 **nautaa/nautaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
